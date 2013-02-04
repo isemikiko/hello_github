@@ -1,0 +1,11 @@
+今日やったこと
+
+＊環境設定
+　rubyのインストール
+　railsのインストール
+　sublime textのインストール
+　git, Pivotal Tracker, Herokuのアカウント取得
+
+＊Pivotal Trackerの使い方の練習
+＊gitの使い方の練習
+　今どのブランチにいるか確認してね！
