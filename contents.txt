@@ -4,7 +4,7 @@
 　rubyのインストール
 　railsのインストール
 　sublime textのインストール
-　git, pivotaltracker, Herokuのアカウント取得
+　git, Pivotal Tracker, Herokuのアカウント取得
 
 ＊Pivotal Trackerの使い方の練習
 ＊gitの使い方の練習
